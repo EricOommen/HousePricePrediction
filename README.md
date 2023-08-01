@@ -4,8 +4,8 @@ This is the analysis of KC house price dataset from Kaggle using the Linear regr
 Eric Oommen Mathew /n
 Adith S Biju
 
-###Abhishek Ashok Kumar
+Abhishek Ashok Kumar
 
-###Manav Maniprasad
+Manav Maniprasad
 
-###Vishnujith Manu
+Vishnujith Manu
